@@ -2,7 +2,7 @@
 
 Este proyecto es una simulación de un proceso de reserva en el que los usuarios deben completar un formulario paso a paso. Cada paso tiene diferentes campos que los usuarios deben llenar, y al final del proceso pueden revisar la información antes de enviar la reserva.
 
-Puedes ver el demo en vivo aquí: [Progress Steps - Demo](https://tu-usuario.github.io/progress-steps/)
+Puedes ver el demo en vivo aquí: [Progress Steps - Demo](https://bereverte.github.io/progress-steps/)
 
 ## Descripción
 
